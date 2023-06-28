@@ -1,1 +1,1 @@
-# .github
+# Elixir China Hub
